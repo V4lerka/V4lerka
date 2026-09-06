@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=V4lerka)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=V4lerka)](https://github.com/stats-organization/github-stats-extended)
 
 - 🔭 I’m currently working on something interesting
 - 💬 Ask me about chemistry and everithing connected with
